@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "398d4d78-8210-4545-8368-46bac683dcfb",
+    "name": "Jasmine Ruecker-Wuckert",
+    "phone": "545-808-9238 x144",
+    "email": "Emelie9@gmail.com",
+    "job": "National Metrics Coordinator"
+  },
+  {
+    "id": "2609c572-294f-49f5-b298-797bdb709b28",
+    "name": "Dr. Jamie Schimmel",
+    "phone": "1-434-942-3750 x23261",
+    "email": "Lyla_Feest83@gmail.com",
+    "job": "Global Communications Agent"
+  },
+  {
+    "id": "f93ecb3e-eee7-4a2c-8d9e-b55cc616da26",
+    "name": "Rudolph Champlin",
+    "phone": "1-403-864-1832 x8639",
+    "email": "Ettie.Harris@yahoo.com",
+    "job": "Direct Branding Supervisor"
+  },
+  {
+    "id": "ac3b05a7-9a2f-4d5b-8297-e4c0ea7172b4",
+    "name": "Owen Tromp",
+    "phone": "373-939-3367",
+    "email": "Carlos.Beatty28@gmail.com",
+    "job": "District Web Architect"
+  }
+]
